@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="91ecc4dc-7c1d-4242-925f-c76569f75018" name="Default Changelist" comment="updated credential definition data json file">
-      <change beforePath="$PROJECT_DIR$/python-example-app/Credential_Definition_Data.json" beforeDir="false" afterPath="$PROJECT_DIR$/python-example-app/Credential_Definition_Data.json" afterDir="false" />
-    </list>
+    <list default="true" id="91ecc4dc-7c1d-4242-925f-c76569f75018" name="Default Changelist" comment="updated credential definition data json file" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -173,7 +171,21 @@
       <option name="project" value="LOCAL" />
       <updated>1611588617303</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="updated credential definition data json file">
+      <created>1611588948492</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1611588948492</updated>
+    </task>
+    <task id="LOCAL-00006" summary="updated credential definition data json file">
+      <created>1611592652715</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1611592652715</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
