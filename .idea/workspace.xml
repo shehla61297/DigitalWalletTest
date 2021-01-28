@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="91ecc4dc-7c1d-4242-925f-c76569f75018" name="Default Changelist" comment="updated credential definition data json file" />
+    <list default="true" id="91ecc4dc-7c1d-4242-925f-c76569f75018" name="Default Changelist" comment="updated credential definition data json file">
+      <change beforePath="$PROJECT_DIR$/python-example-app/Credential_Definition_Data.json" beforeDir="false" afterPath="$PROJECT_DIR$/python-example-app/Credential_Definition_Data.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -122,10 +124,10 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.APITest" />
+      <item itemvalue="Python.CISDigitalWalletModel2" />
       <item itemvalue="Python.CISDigitalWalletModel" />
       <item itemvalue="Python.app" />
-      <item itemvalue="Python.CISDigitalWalletModel2" />
-      <item itemvalue="Python.APITest" />
     </list>
     <recent_temporary>
       <list>
@@ -205,6 +207,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="updated" />
