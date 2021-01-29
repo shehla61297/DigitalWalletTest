@@ -124,10 +124,10 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.APITest" />
-      <item itemvalue="Python.CISDigitalWalletModel2" />
       <item itemvalue="Python.CISDigitalWalletModel" />
       <item itemvalue="Python.app" />
+      <item itemvalue="Python.CISDigitalWalletModel2" />
+      <item itemvalue="Python.APITest" />
     </list>
     <recent_temporary>
       <list>
